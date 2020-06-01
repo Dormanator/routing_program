@@ -165,7 +165,7 @@ When considering the space and time complexity values that make up the solution&
 | _**Algorithm Component**_ | **Time Complexity** | **Space Complexity** |
 | --- | --- | --- |
 | _**1.a**_ | O(O(1) + O(n)) = **O(n)** | O(O(1) + O(1)) = **O(1)** |
-| _**1.b**_ | O(2 * O(nlogn)) = **O(nlogn)****)**| O(2 * O(n)) =**O(n)****)** |
+| _**1.b**_ | O(2 * O(nlogn)) = **O(nlogn))**| O(2 * O(n)) =**O(n))** |
 | _**1.c**_ | **O(n)** | **O(1)** |
 | _**2.a**_ | **O(1)** | **O(1)** |
 | _**2.b**_ | **O(n**<sup>**2**</sup>**)** | **O(n**<sup>**2**</sup>**)** |
