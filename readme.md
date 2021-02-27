@@ -1,8 +1,4 @@
-Ryan Dorman
-
-ID: 001002824
-
-# **WGUPS Routing Program**
+# **Routing Program**
 
 ## **I. Problem**
 
